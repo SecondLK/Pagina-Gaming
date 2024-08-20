@@ -1,0 +1,69 @@
+/*esto se usa para agregar comentarios */
+.index-body{
+    background-image: url(./img/GI-Background.jpg)
+}
+
+/*HEADER*/ 
+.header{
+    background-color: transparent;
+    width: 100%
+}
+.header-logo{
+    display: flex;
+}
+.inicio-sesion{
+border-style: solid;    
+}
+
+/*MAIN*/
+.info-Gaming{
+   color:black;
+   display: flex;
+}
+.info-Gaming .GamingFotoCarnet{
+    background-color:black;
+}
+.info-basica{
+    display: flex;
+    justify-content: center;
+}
+.build{
+    display: flex;
+    justify-content: space-evenly;
+}
+/*FOOTER*/
+.footer{ color: white;
+    background-color: black;
+    height: 70px;
+
+}
+
+
+/*TABLE*/
+/*contacto*/
+.contacto-body{
+    background-image: url(./img/GI-Background.jpg) 
+}
+.form{
+    border-style: solid;
+}
+/*horarios*/
+.listado-de-items {
+    color: black;
+    background-color: transparent;
+    width: 20%;
+    border-style: solid;
+}
+
+    .horarios-body{ background-image: url(./img/GI-Background.jpg);
+    }
+.dias {
+    color: #2d0264;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.horarios {
+    font-style: italic;
+    color: #2d0264
+}
